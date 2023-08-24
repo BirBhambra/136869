@@ -1,0 +1,3 @@
+Name: Birkanwal Bhambra
+Admission Number: 136869
+Title of project: TrashIt - A mobile application that uses CNN to identify and sort various types of plastic trash.
